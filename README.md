@@ -4,7 +4,7 @@ Extract rar. Can't upload files more than a hundred.
 
 Midseason / Season 1.5 SDK Dump
 
-Thanks to @Fishscalat for Dumper-7
+Thanks to @Fischsalat for Dumper-7
 
 
 
